@@ -6,8 +6,8 @@
  * Made By MaterializeCSS.com
  */
 
-nav ul a,
-nav .brand-logo {
+ nav ul a,
+ nav .brand-logo {
   color: #444;
 }
 
@@ -38,9 +38,20 @@ p {
   font-family: 'Raleway', sans-serif;
   color: rgba(255,255,255,.9);
 }
-  .parallax-container .section {
-    width: 100%;
-  }
+.parallax-container .section {
+  width: 100%;
+}
+
+.parallax-container2 {
+  min-height: 380px;
+  line-height: 0;
+  height: auto;
+  font-family: 'Raleway', sans-serif;
+  color: rgba(255,255,255,.9);
+}
+.parallax-container2 .section {
+  width: 100%;
+}
 
 @media only screen and (max-width : 992px) {
   .parallax-container .section {
