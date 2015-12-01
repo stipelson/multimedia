@@ -24,7 +24,7 @@ p {
 }
 
 .parallax-transparency{
-  background-color: #37474f;
+  background-color: #455a64;
   opacity: 0.3;
   height: 100%;
   width: 100%;
@@ -34,7 +34,7 @@ p {
   //min-height: 70%;
   line-height: 2;
   //max-height: 100%;
-  height: 600px;
+  height: 500px;
   font-family: 'Raleway', sans-serif;
   color: rgba(255,255,255,.9);
 }
