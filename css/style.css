@@ -11,9 +11,6 @@
   color: #444;
 }
 
-.container{
-  font-family: 'Raleway', sans-serif;
-}
 
 p {
   line-height: 2rem;
@@ -77,6 +74,5 @@ p {
 }
 
 footer.page-footer {
-  font-family: 'Raleway', sans-serif;
   margin: 0;
 }
